@@ -1,0 +1,17 @@
+F:\wpf\W2数据解析\W2_DataAnalyze\bin\Debug\W2_DataAnalyze.exe.config
+F:\wpf\W2数据解析\W2_DataAnalyze\bin\Debug\W2_DataAnalyze.exe
+F:\wpf\W2数据解析\W2_DataAnalyze\bin\Debug\W2_DataAnalyze.pdb
+F:\wpf\W2数据解析\W2_DataAnalyze\bin\Debug\WPF.Themes.dll
+F:\wpf\W2数据解析\W2_DataAnalyze\bin\Debug\WPFToolkit.dll
+F:\wpf\W2数据解析\W2_DataAnalyze\bin\Debug\WPF.Themes.pdb
+F:\wpf\W2数据解析\W2_DataAnalyze\obj\Debug\MainWindow.g.cs
+F:\wpf\W2数据解析\W2_DataAnalyze\obj\Debug\App.g.cs
+F:\wpf\W2数据解析\W2_DataAnalyze\obj\Debug\W2_DataAnalyze_MarkupCompile.cache
+F:\wpf\W2数据解析\W2_DataAnalyze\obj\Debug\W2_DataAnalyze_MarkupCompile.lref
+F:\wpf\W2数据解析\W2_DataAnalyze\obj\Debug\MainWindow.baml
+F:\wpf\W2数据解析\W2_DataAnalyze\obj\Debug\W2_DataAnalyze.g.resources
+F:\wpf\W2数据解析\W2_DataAnalyze\obj\Debug\W2_DataAnalyze.Properties.Resources.resources
+F:\wpf\W2数据解析\W2_DataAnalyze\obj\Debug\W2_DataAnalyze.csproj.GenerateResource.Cache
+F:\wpf\W2数据解析\W2_DataAnalyze\obj\Debug\W2_DataAnalyze.exe
+F:\wpf\W2数据解析\W2_DataAnalyze\obj\Debug\W2_DataAnalyze.pdb
+F:\wpf\W2数据解析\W2_DataAnalyze\obj\Debug\W2_DataAnalyze.csprojResolveAssemblyReference.cache

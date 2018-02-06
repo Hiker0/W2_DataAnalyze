@@ -1,0 +1,14 @@
+F:\wpf\W2数据解析\W2数据解析\bin\Debug\W2数据解析.exe.config
+F:\wpf\W2数据解析\W2数据解析\bin\Debug\W2数据解析.exe
+F:\wpf\W2数据解析\W2数据解析\bin\Debug\W2数据解析.pdb
+F:\wpf\W2数据解析\W2数据解析\obj\Debug\MainWindow.g.cs
+F:\wpf\W2数据解析\W2数据解析\obj\Debug\App.g.cs
+F:\wpf\W2数据解析\W2数据解析\obj\Debug\W2数据解析_MarkupCompile.cache
+F:\wpf\W2数据解析\W2数据解析\obj\Debug\W2数据解析_MarkupCompile.lref
+F:\wpf\W2数据解析\W2数据解析\obj\Debug\MainWindow.baml
+F:\wpf\W2数据解析\W2数据解析\obj\Debug\W2数据解析.g.resources
+F:\wpf\W2数据解析\W2数据解析\obj\Debug\W2数据解析.Properties.Resources.resources
+F:\wpf\W2数据解析\W2数据解析\obj\Debug\W2数据解析.csproj.GenerateResource.Cache
+F:\wpf\W2数据解析\W2数据解析\obj\Debug\W2数据解析.exe
+F:\wpf\W2数据解析\W2数据解析\obj\Debug\W2数据解析.pdb
+F:\wpf\W2数据解析\W2数据解析\obj\Debug\W2数据解析.csprojResolveAssemblyReference.cache

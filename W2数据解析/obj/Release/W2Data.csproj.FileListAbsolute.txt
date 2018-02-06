@@ -1,0 +1,4 @@
+F:\wpf\W2数据解析\W2数据解析\obj\Release\MainWindow.g.cs
+F:\wpf\W2数据解析\W2数据解析\obj\Release\App.g.cs
+F:\wpf\W2数据解析\W2数据解析\obj\Release\W2Data_MarkupCompile.cache
+F:\wpf\W2数据解析\W2数据解析\obj\Release\W2Data_MarkupCompile.lref
